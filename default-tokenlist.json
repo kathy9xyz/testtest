@@ -27,4 +27,12 @@
   "logoURI": "https://raw.githubusercontent.com/baldex/list/master/logos/token-logos/token/adx.jpg",
   "name": "SIG",
   "symbol": "SIG"
+  },
+  {
+  "address": "0xdA26E2Be3D45cD97f8C748BA23E35FB13b6DB303",
+  "chainId": 84531,
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/baldex/list/master/logos/token-logos/token/usdc.jpg",
+  "name": "USDC",
+  "symbol": "USDC"
   }]}
