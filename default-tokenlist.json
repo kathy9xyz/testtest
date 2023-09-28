@@ -1,1 +1,30 @@
-
+{
+  "name": "Baldex Default Menu",
+  "timestamp": "2023-05-05T23:43:32.770Z",
+  "version": {
+  "major": 0,
+  "minor": 0,
+  "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/baldex/list/master/logos/token-logos/token/baldxToken.png",
+  "keywords": [
+  "default"
+  ],
+  "tokens": [
+  {
+  "address": "0x3771F5A0eBeCA8523B5a81d81a80ae9a213d265A",
+  "chainId": 84531,
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/baldex/list/master/logos/token-logos/token/baldxToken.png",
+  "name": "BALDEX",
+  "symbol": "BALDX"
+  },
+  {
+  "address": "0xBDC5DCD4b99EcBA86D38385C72D24930F76171eD",
+  "chainId": 84531,
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/baldex/list/master/logos/token-logos/token/adx.jpg",
+  "name": "SIG",
+  "symbol": "SIG"
+  }]}
