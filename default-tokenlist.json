@@ -1,5 +1,5 @@
 {
-  "name": "Baldex Default Menu",
+  "name": "Charge Menu",
   "timestamp": "2023-05-05T23:43:32.770Z",
   "version": {
   "major": 0,
@@ -7,32 +7,32 @@
   "patch": 0
   },
   "tags": {},
-  "logoURI": "https://raw.githubusercontent.com/baldex/list/master/logos/token-logos/token/baldxToken.png",
+  "logoURI": "https://cdn.discordapp.com/attachments/1150746288057499690/1181097588632584202/logo.png",
   "keywords": [
   "default"
   ],
   "tokens": [
   {
-  "address": "0x3771F5A0eBeCA8523B5a81d81a80ae9a213d265A",
-  "chainId": 84531,
+  "address": "0x463913D3a3D3D291667D53B8325c598Eb88D3B0e",
+  "chainId": 42161,
   "decimals": 18,
-  "logoURI": "https://raw.githubusercontent.com/baldex/list/master/logos/token-logos/token/baldxToken.png",
-  "name": "BALDEX",
-  "symbol": "BALDX"
+  "logoURI": "https://arbiscan.io/token/images/solidlizard_32.png",
+  "name": "SolidLizard",
+  "symbol": "SLIZ"
   },
   {
-  "address": "0xBDC5DCD4b99EcBA86D38385C72D24930F76171eD",
-  "chainId": 84531,
+  "address": "0xaaa6c1e32c55a7bfa8066a6fae9b42650f262418",
+  "chainId": 42161,
   "decimals": 18,
-  "logoURI": "https://raw.githubusercontent.com/baldex/list/master/logos/token-logos/token/adx.jpg",
-  "name": "SIG",
-  "symbol": "SIG"
+  "logoURI": "https://arbiscan.io/token/images/ramsesexchange_32.png?v=3",
+  "name": "Ramses",
+  "symbol": "RAM"
   },
   {
-  "address": "0xdA26E2Be3D45cD97f8C748BA23E35FB13b6DB303",
-  "chainId": 84531,
+  "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+  "chainId": 42161,
   "decimals": 18,
-  "logoURI": "https://raw.githubusercontent.com/baldex/list/master/logos/token-logos/token/usdc.jpg",
+  "logoURI": "https://arbiscan.io/token/images/centre-usdc_28.png",
   "name": "USDC",
   "symbol": "USDC"
   }]}
