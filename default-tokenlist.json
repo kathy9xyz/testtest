@@ -31,7 +31,7 @@
   {
   "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
   "chainId": 42161,
-  "decimals": 18,
+  "decimals": 6,
   "logoURI": "https://arbiscan.io/token/images/centre-usdc_28.png",
   "name": "USDC",
   "symbol": "USDC"
