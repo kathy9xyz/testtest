@@ -1,48 +1,38 @@
 {
-  "name": "ChargeFI Default Menu",
-  "timestamp": "2023-12-04T23:43:32.770Z",
+  "name": "ChargeFi Menu",
+  "timestamp": "2023-05-05T23:43:32.770Z",
   "version": {
-    "major": 0,
-    "minor": 0,
-    "patch": 0
+  "major": 0,
+  "minor": 0,
+  "patch": 0
   },
   "tags": {},
-  "logoURI": "https://cdn.discordapp.com/attachments/1150746288057499690/1181097588632584202/logo.png",
+  "logoURI": "https://raw.githubusercontent.com/ChargeFinance/chargefilist/master/logos/token-logos/token/0x2d9b56e4afc3fe76c91d555c3073eee26dc8c9db.png",
   "keywords": [
-    "default"
+  "default"
   ],
   "tokens": [
-    {
-      "address": "0x463913D3a3D3D291667D53B8325c598Eb88D3B0e",
-      "chainId": 42161,
-      "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/solidlizard_32.png",
-      "name": "SolidLizard",
-      "symbol": "SLIZ"
-    },
-    {
-      "address": "0xaaa6c1e32c55a7bfa8066a6fae9b42650f262418",
-      "chainId": 42161,
-      "decimals": 18,
-      "logoURI": "https://arbiscan.io/token/images/ramsesexchange_32.png?v=3",
-      "name": "Ramses",
-      "symbol": "RAM"
-    },
-    {
-      "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
-      "chainId": 42161,
-      "decimals": 6,
-      "logoURI": "https://arbiscan.io/token/images/centre-usdc_28.png",
-      "name": "USDC",
-      "symbol": "USDC"
-    },
-    {
-      "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
-      "chainId": 42161,
-      "decimals": 6,
-      "logoURI": "https://arbiscan.io/token/images/centre-usdc_28.png",
-      "name": "USDC",
-      "symbol": "USDC"
-    }
-  ]
-}
+  {
+  "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+  "chainId": 42161,
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/ChargeFinance/chargefilist/master/logos/token-logos/network/arbitrum/0x82aF49447D8a07e3bd95BD0d56f35241523fBab1.jpg",
+  "name": "WETH",
+  "symbol": "WETH"
+  },
+  {
+  "address": "0x2d9b56e4afc3fe76c91d555c3073eee26dc8c9db",
+  "chainId": 42161,
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/ChargeFinance/chargefilist/master/logos/token-logos/token/0x2d9b56e4afc3fe76c91d555c3073eee26dc8c9db.png",
+  "name": "CHARGE",
+  "symbol": "CHARGE"
+  },
+  {
+  "address": "0xe775d688a93ae99d2ed13d9f8237d3fe588bf532",
+  "chainId": 42161,
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/ChargeFinance/chargefilist/master/logos/token-logos/token/0xe775d688a93ae99d2ed13d9f8237d3fe588bf532.png",
+  "name": "CSHARE",
+  "symbol": "CSHARE"
+  }]}
