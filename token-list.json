@@ -7,7 +7,7 @@
     "patch": 0
   },
   "tags": {},
-  "logoURI": "",
+  "logoURI": "https://cdn.discordapp.com/attachments/1150746288057499690/1181097588632584202/logo.png",
   "keywords": [
     "default"
   ],
@@ -16,7 +16,7 @@
       "address": "0x2136d8017ac5f4Db99A7F9E23f15116b9c98Be4E",
       "chainId": 1088,
       "decimals": 18,
-      "logoURI": "",
+      "logoURI": "https://cdn.discordapp.com/attachments/1150746288057499690/1181097588632584202/logo.png",
       "name": "VEGA",
       "symbol": "VEGA"
     }
