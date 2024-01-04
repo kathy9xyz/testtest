@@ -1,0 +1,25 @@
+{
+  "name": "Mango Menu",
+  "timestamp": "2023-05-05T23:43:32.770Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "",
+  "keywords": [
+    "default"
+  ],
+  "tokens": [
+    {
+      "address": "0x2136d8017ac5f4Db99A7F9E23f15116b9c98Be4E",
+      "chainId": 1088,
+      "decimals": 18,
+      "logoURI": "",
+      "name": "VEGA",
+      "symbol": "VEGA"
+    }
+    
+  ]
+}
