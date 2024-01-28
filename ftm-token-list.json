@@ -1,0 +1,40 @@
+{
+  "name": "TheForged Menu",
+  "timestamp": "2023-05-05T23:43:32.770Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://cdn.discordapp.com/attachments/1150746288057499690/1181097588632584202/logo.png",
+  "keywords": [
+    "default"
+  ],
+  "tokens": [
+    {
+      "address": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://assets-cdn.trustwallet.com/blockchains/fantom/assets/0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83/logo.png",
+      "name": "Wrapped Fantom",
+      "symbol": "WFTM"
+  },
+    {
+      "address": "0xe53afa646d48e9ef68fcd559f2a598880a3f1370",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://github.com/firebird-finance/firebird-assets/blob/master/blockchains/fantom/assets/0xE53aFA646d48E9EF68fCd559F2a598880a3f1370/logo.png",
+      "name": "TOMB+",
+      "symbol": "TOMB+"
+    },
+    {
+      "address": "0x28a92dde19d9989f39a49905d7c9c2fac7799bdf",
+      "chainId": 250,
+      "decimals": 6,
+      "logoURI": "https://github.com/firebird-finance/firebird-assets/blob/master/blockchains/fantom/assets/0x28a92dde19D9989F39A49905d7C9C2FAc7799bDf/logo.png",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    }
+  ]
+}
