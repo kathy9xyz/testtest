@@ -24,7 +24,7 @@
       "address": "0xe53afa646d48e9ef68fcd559f2a598880a3f1370",
       "chainId": 250,
       "decimals": 18,
-      "logoURI": "https://github.com/firebird-finance/firebird-assets/blob/master/blockchains/fantom/assets/0xE53aFA646d48E9EF68fCd559F2a598880a3f1370/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/firebird-finance/firebird-assets/master/blockchains/fantom/assets/0xE53aFA646d48E9EF68fCd559F2a598880a3f1370/logo.png",
       "name": "TOMB+",
       "symbol": "TOMB+"
     },
