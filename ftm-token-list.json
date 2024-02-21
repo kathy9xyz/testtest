@@ -13,16 +13,6 @@
   ],
   "tokens": [
     {
-      "address": "ether",
-      "name": "Fantom",
-      "symbol": "FTM",
-      "chainId": 250,
-      "logoURI": "",
-      "decimals": 18,
-      "precision": 4,
-      "cgkId": "fantom"
-    },
-    {
       "name": "Wrapped Fantom",
       "symbol": "WFTM",
       "address": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
